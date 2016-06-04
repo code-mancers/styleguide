@@ -3,7 +3,7 @@ Codemancers Styleguide
 
 Discuss this with the Codemancers team in [this chat room](https://www.hipchat.com/gfdFsSL2Y).
 
-* Ruby
-* Javascript
-* React
+* [Ruby](https://github.com/code-mancers/styleguide/tree/master/ruby)
+* Javascript (TODO)
+* React (TODO)
 
