@@ -279,8 +279,8 @@ When you create a TODO, it is almost always your name that is given.
 ### Commented-out code
 
 * <a name="commented-code"></a>Never leave commented-out code in our codebase.
-*   Don't be afraid to remove code even if you suspect you may need it later.
-*   Version control exists for that reason.
+    Don't be afraid to remove code even if you suspect you may need it later.
+    Version control exists for that reason.
     <sup>[[link](#commented-code)]</sup>
 
 ## Methods
